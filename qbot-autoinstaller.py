@@ -43,7 +43,7 @@ def __start__():
 
 def __downloadqbot__():
   print('Downloading qbot from git hub...' + bcolors.WARNING)
-  os.system('git clone https://github.com/geniosa/qbot') # change the github link to yours
+  os.system('git clone https://github.com/Rivan-aka-bluematrix/qbot') # change the github link to yours
   print('----> DONE!' + bcolors.OKGREEN)
   return
 
